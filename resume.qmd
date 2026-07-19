@@ -5,14 +5,15 @@ format: pdf
 
 # Antonio Vera Gonzalez
 
-+1 (208) 760-5871  
-ver21021@byui.edu  
++1 (208) 760-5871\
+ver21021\@byui.edu\
 https://www.linkedin.com/in/antonioverag1212/
 
 ## Relevant Experience
 
 ### Credit Analyst (Small Business Oriented)
-**Edpyme Credivision S.A., Lima, Peru**  
+
+**Edpyme Credivision S.A., Lima, Peru**\
 *January 2021 – July 2021*
 
 - Built strong relationships with over 35 new clients through constant interaction while developing my own portfolio.
@@ -20,7 +21,8 @@ https://www.linkedin.com/in/antonioverag1212/
 - Analyzed more than 50 loan requests as a member of the Loan Approval Committee.
 
 ### Student Instructor (GE 101)
-**Brigham Young University–Idaho, Rexburg, ID**  
+
+**Brigham Young University–Idaho, Rexburg, ID**\
 *August 2022 – November 2022*
 
 - Taught classes averaging 25 first-year college students.
@@ -28,14 +30,16 @@ https://www.linkedin.com/in/antonioverag1212/
 - Instructed more than 200 students over five semesters while maintaining effective classroom management.
 
 ### Full-Time Representative
-**The Church of Jesus Christ of Latter-day Saints, Mexico City, Mexico**  
+
+**The Church of Jesus Christ of Latter-day Saints, Mexico City, Mexico**\
 *June 2018 – May 2020*
 
 - Led groups of eight representatives in leadership training.
 - Managed challenging situations through teamwork, communication, and goal setting.
 
 ### Economic Consulting Project
-**Fizz Rizz, Rexburg, ID**  
+
+**Fizz Rizz, Rexburg, ID**\
 *February 2026 – April 2026*
 
 - Conducted an economic analysis of sales, pricing, and customer behavior.
@@ -45,20 +49,23 @@ https://www.linkedin.com/in/antonioverag1212/
 ## Education
 
 ### Brigham Young University–Idaho
-**Bachelor of Science in Economics**  
+
+**Bachelor of Science in Economics**\
 *January 2022 – Present*
 
 - Minor in Data Science
 - Expected graduation: Fall 2026
 
 ### Fundet Credit Analyst Intensive Program
-**Credit Analyst Certification**  
+
+**Credit Analyst Certification**\
 *January 2021 – July 2021*
 
 - Completed intensive training for the microfinance sector.
 
 ### Universidad Nacional Mayor de San Marcos
-**Economics**  
+
+**Economics**\
 *January 2017 – December 2017*
 
 - Completed coursework in mathematics, politics, and economics.
@@ -78,7 +85,6 @@ https://www.linkedin.com/in/antonioverag1212/
 ## Additional Information
 
 - Native Spanish speaker; fluent in English
-- Leadership Training at BYU–Idaho
-<!-- ### Footer
+- Leadership Training at BYU–Idaho \<!-- \### Footer
 
-Last updated: Jul 2026 -->
+Last updated: Jul 2026 --\>
