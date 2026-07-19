@@ -1,89 +1,84 @@
 ---
-layout: cv
-title: Antonio's CV
+title: "Resume"
+format: pdf
 ---
-# Antonio
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Antonio Vera Gonzalez
 
++1 (208) 760-5871  
+ver21021@byui.edu  
+https://www.linkedin.com/in/antonioverag1212/
 
-## Currently
+## Relevant Experience
 
-Standing on the shoulders of giants
+### Credit Analyst (Small Business Oriented)
+**Edpyme Credivision S.A., Lima, Peru**  
+*January 2021 – July 2021*
 
-### Specialized in
+- Built strong relationships with over 35 new clients through constant interaction while developing my own portfolio.
+- Built a loan portfolio of over S/. 300,000 during the COVID-19 pandemic.
+- Analyzed more than 50 loan requests as a member of the Loan Approval Committee.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Student Instructor (GE 101)
+**Brigham Young University–Idaho, Rexburg, ID**  
+*August 2022 – November 2022*
 
+- Taught classes averaging 25 first-year college students.
+- Planned approximately 13 lessons per semester in teams of two or three instructors.
+- Instructed more than 200 students over five semesters while maintaining effective classroom management.
 
-### Research interests
+### Full-Time Representative
+**The Church of Jesus Christ of Latter-day Saints, Mexico City, Mexico**  
+*June 2018 – May 2020*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Led groups of eight representatives in leadership training.
+- Managed challenging situations through teamwork, communication, and goal setting.
 
+### Economic Consulting Project
+**Fizz Rizz, Rexburg, ID**  
+*February 2026 – April 2026*
+
+- Conducted an economic analysis of sales, pricing, and customer behavior.
+- Used linear regression in R to identify weekly and seasonal sales patterns.
+- Designed a Power BI presentation to communicate findings and pricing recommendations.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Brigham Young University–Idaho
+**Bachelor of Science in Economics**  
+*January 2022 – Present*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Minor in Data Science
+- Expected graduation: Fall 2026
 
-- Sizar
+### Fundet Credit Analyst Intensive Program
+**Credit Analyst Certification**  
+*January 2021 – July 2021*
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Completed intensive training for the microfinance sector.
 
-- Fellow
+### Universidad Nacional Mayor de San Marcos
+**Economics**  
+*January 2017 – December 2017*
 
+- Completed coursework in mathematics, politics, and economics.
+- Admitted before finishing high school through a competitive entrance exam.
 
+## Skills
 
-## Awards
+- SQL
+- Python
+- R
+- Power BI
+- Microsoft Office
+- Econometrics
+- Statistics
+- AI Tools
 
-`2012`
-President, *Royal Society*, London, UK
+## Additional Information
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
+- Native Spanish speaker; fluent in English
+- Leadership Training at BYU–Idaho
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jul 2026 -->
