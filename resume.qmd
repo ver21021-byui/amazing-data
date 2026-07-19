@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-format: pdf
+format: html
 ---
 
 # Antonio Vera Gonzalez
